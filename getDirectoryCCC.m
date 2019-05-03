@@ -1,0 +1,37 @@
+function dirList = getDirectoryCCC()
+  dirList= [...
+            %amazon
+            {'data/amazon/decaf-fts/back_pack/frame_';};
+            {'data/amazon/decaf-fts/bike/frame_';};
+            {'data/amazon/decaf-fts/bike_helmet/frame_';};
+            {'data/amazon/decaf-fts/bookcase/frame_';};
+            {'data/amazon/decaf-fts/bottle/frame_';};
+            {'data/amazon/decaf-fts/calculator/frame_';};
+            {'data/amazon/decaf-fts/desk_chair/frame_';};
+            {'data/amazon/decaf-fts/desk_lamp/frame_';};
+            {'data/amazon/decaf-fts/desktop_computer/frame_';};
+            {'data/amazon/decaf-fts/file_cabinet/frame_';};
+            %dslr
+            {'data/dslr/decaf-fts/back_pack/frame_';};
+            {'data/dslr/decaf-fts/bike/frame_';};
+            {'data/dslr/decaf-fts/bike_helmet/frame_';};
+            {'data/dslr/decaf-fts/bookcase/frame_';};
+            {'data/dslr/decaf-fts/bottle/frame_';};
+            {'data/dslr/decaf-fts/calculator/frame_';};
+            {'data/dslr/decaf-fts/desk_chair/frame_';};
+            {'data/dslr/decaf-fts/desk_lamp/frame_';};
+            {'data/dslr/decaf-fts/desktop_computer/frame_';};
+            {'data/dslr/decaf-fts/file_cabinet/frame_';};            
+            %webcam
+            {'data/webcam/decaf-fts/back_pack/frame_';};
+            {'data/webcam/decaf-fts/bike/frame_';};
+            {'data/webcam/decaf-fts/bike_helmet/frame_';};
+            {'data/webcam/decaf-fts/bookcase/frame_';};
+            {'data/webcam/decaf-fts/bottle/frame_';};
+            {'data/webcam/decaf-fts/calculator/frame_';};
+            {'data/webcam/decaf-fts/desk_chair/frame_';};
+            {'data/webcam/decaf-fts/desk_lamp/frame_';};
+            {'data/webcam/decaf-fts/desktop_computer/frame_';};
+            {'data/webcam/decaf-fts/file_cabinet/frame_';};
+            ];
+end
