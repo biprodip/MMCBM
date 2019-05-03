@@ -2,8 +2,8 @@
 Object classification model leveraging deep convolutional features and manifold processing
 For details theory read the paper titled Neighbourhood Consistency Based Deep Domain Adaption Analysis for Multi Category Object Detection [1]. Performance of the model are depicted bellow.
 
-![Accuracy Result](/Images/Table_1.PNG)
-![F1_Score](/Images/Table_2.PNG)
+![Accuracy Result](/Images/Table_1.png)
+![F1_Score](/Images/Table_2.png)
 
 The resultant feature subset elucidates lower sum of intracluster distances of samples compared to the full set of features.
 
