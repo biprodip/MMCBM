@@ -3,13 +3,14 @@ Object classification model leveraging deep convolutional features and manifold 
 For details theory read the paper titled Neighbourhood Consistency Based Deep Domain Adaption Analysis for Multi Category Object Detection [1]. Performance of the model are depicted bellow.
 
 ![Accuracy Result](/Images/Table1.png)
+
 ![F1_Score](/Images/Table2.png)
 
 The resultant feature subset elucidates lower sum of intracluster distances of samples compared to the full set of features.
 
 To execute the proram:
-1.Setup libSVM (Also setup C Compilers if required)
-2.Setup all variables in initData.m and run in Matlab.
+*.Setup libSVM (Also setup C Compilers if required)
+*.Setup all variables in initData.m and run in Matlab.
 
 ## Dependencies
 * Matlab/Octave
