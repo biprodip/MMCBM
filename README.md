@@ -1,0 +1,2 @@
+# MMCBM_Multiple_Model_Consistency_Based_Model
+Object classification model leveraging deep convolutional features and manifold processing
